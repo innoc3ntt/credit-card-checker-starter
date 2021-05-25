@@ -41,6 +41,8 @@ function validateCred(numArr) {
 
 }
 
+//Testing github desktop
+
 // Test functions:
 console.log(validateCred(valid1)); // Should print true
 console.log(validateCred(invalid1)); // Should print false
